@@ -1,0 +1,5 @@
+{
+  "name": "Not Hot Dog Detector",
+  "description": "An AI-powered application that determines if an uploaded image contains a hot dog, inspired by the app from the show 'Silicon Valley'. It uses a Hugging Face image classification model to analyze the image and provide a definitive 'Hot Dog' or 'Not Hot Dog' verdict.",
+  "requestFramePermissions": []
+}
